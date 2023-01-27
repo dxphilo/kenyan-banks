@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+.tsbuildinfo
+dist
+.env
+.idea/
+logs/
+**/.DS_Store
+.vercel
